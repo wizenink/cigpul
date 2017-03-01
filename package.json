@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/wizenink/cigpul/issues"
   },
-  "homepage": "https://github.com/wizenink/cigpul#readme"
+  "homepage": "https://github.com/wizenink/cigpul#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5"
+  }
 }
