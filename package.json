@@ -1,0 +1,24 @@
+{
+  "name": "cigpul",
+  "version": "1.0.0",
+  "description": "CI y CD GPUL Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizenink/cigpul.git"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "gpul"
+  ],
+  "author": "david.maseda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizenink/cigpul/issues"
+  },
+  "homepage": "https://github.com/wizenink/cigpul#readme"
+}
